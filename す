@@ -1,0 +1,10 @@
+# Reactアプリの例
+npx create-react-app stretch-app
+cd stretch-app
+
+# Gitの初期化
+git init
+git remote add origin https://github.com/YOUR_USERNAME/stretch-app.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
